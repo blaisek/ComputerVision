@@ -50,6 +50,7 @@ Trouver un algorithme qui à partir de la matrice foreground obtenue par BMC , �
 - Réalisation du cahier des charges détaillé au format markdown
 - installation d'opencv et des outils de développement sur la machine ubuntu en salle 505
 - test 
+
 % effectué:
 
 #### Objectif suivant:
