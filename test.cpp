@@ -1,5 +1,5 @@
 /*
- * main.cxx
+ * test.cpp
  * 
  * Copyright 2017 ETUDIANT <etudiant@etudiant-OptiPlex-990>
  * 
@@ -39,6 +39,7 @@
 
 
     using namespace cv;
+    using namespace std; 
     
     int main()
     {
