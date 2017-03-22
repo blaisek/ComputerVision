@@ -38,7 +38,7 @@ Réalisation d’un démonstrateur du cas d’étude.
 Fournir un mémoire en quatre tirages papier et l'accès aux codes sources, un résumé et une présentation orale. 
 
 
-## Rapport d’ÉTAT hebdomadaire d'avancement du projet
+## Rapport d’ÉTAT d'avancement du projet
 ### 15 mars 2017:
 - Etat de la technique du domaine: 
 BMC , Background Models Substraction, est une méthode souvent utilisée pour la détection de mouvement d'objet , en soustrayant le background d'un plan fixe, on isole en foreground tout objet qui passe dans le plan.   
