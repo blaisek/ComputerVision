@@ -32,7 +32,7 @@ Proposition d’une solution adaptée au cas d’étude choisi.
 
 
 4. 
-Réalisation d’un démonstrateur du cas d’étude.
+Réalisation d’un démonstrateur du cas d’étude. (Une vidéo enregistrée fera l'affaire)
 
 5.
 Fournir un mémoire en quatre tirages papier et l'accès aux codes sources, un résumé et une présentation orale. 
@@ -52,11 +52,9 @@ Trouver un algorithme qui à partir de la matrice foreground obtenue par BMC , �
 - test 
 
 % effectué:
-
+100%
 #### Objectif suivant:
 
 Travailler sur les algorithmes de flux vidéo sur téléphone android en attendant la caméra IP commandée 
+étudier et écrire sur la détection de mouvement 
 
-#### Remarques:
-
-### 29 mars 2017: 
