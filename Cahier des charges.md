@@ -38,7 +38,7 @@ Réalisation d’un démonstrateur du cas d’étude. (Une vidéo enregistrée f
 Fournir un mémoire en quatre tirages papier et l'accès aux codes sources, un résumé et une présentation orale. 
 
 
-## Rapport d’ÉTAT d'avancement du projet
+## Journal d'avancement du projet
 ### 15 mars 2017:
 - Etat de la technique du domaine: 
 BMC , Background Models Substraction, est une méthode souvent utilisée pour la détection de mouvement d'objet , en soustrayant le background d'un plan fixe, on isole en foreground tout objet qui passe dans le plan.   
@@ -57,4 +57,6 @@ Trouver un algorithme qui à partir de la matrice foreground obtenue par BMC , �
 
 Travailler sur les algorithmes de flux vidéo sur téléphone android en attendant la caméra IP commandée 
 étudier et écrire sur la détection de mouvement 
-
+### 24 mars 2017
+- Mise en forme du mémoire avec le logiciel latex , page de titre fait et énoncé ajouté.
+- recherche sur l'état de l'art
