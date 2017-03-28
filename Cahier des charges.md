@@ -60,3 +60,8 @@ Travailler sur les algorithmes de flux vidéo sur téléphone android en attenda
 ### 24 mars 2017
 - Mise en forme du mémoire avec le logiciel latex , page de titre fait et énoncé ajouté.
 - recherche sur l'état de l'art
+### 26 mars 2017
+- recherche sur l'état de l'art 
+### 28 mars 2017
+- exercices sur openCV avec android + JNI framework et études d'algorithmes d'openCV
+- recherche sur l'état de l'art 
