@@ -65,3 +65,21 @@ Travailler sur les algorithmes de flux vidéo sur téléphone android en attenda
 ### 28 mars 2017
 - exercices sur openCV avec android + JNI framework et études d'algorithmes d'openCV
 - recherche sur l'état de l'art 
+### 24 avril 2017
+Reprise après une coupure pour finir le travail de semestre et la coupure de pâques. 
+
+j'ai récupéré la caméra IP au labo aujourd'hui, il faut brancher la camera sur un routeur et exécuter une routine d'installation depuis un CD Compatible pour Windows ou mac OS 10 uniquement.  une fois l'installation faite il sera possible d’accéder aux images via internet depuis n'importe quel système.
+
+- Ma machine au labo est sous Ubuntu. sois j'installe windows soit je fais la configuration sur un pc windows. soit je fais la configuration sur mon mac OSX.
+
+- sur quel routeur je pourrais brancher la caméra ?
+
+- l'accès à distance à la caméra, se fait via un portail web www.mydlink.com
+  je me pose quelques questions:
+  
+- peut on détourner le flux vidéo du site internet vers un programme de traitement en temps réels ou doit on obligatoirement    utiliser une vidéo enregistré ? 
+
+- la platforme web propose entre autre une application de détection de mouvement 
+
+- le software contient du code sous licence GNU dont la source peut se trouver sous 
+http://tsd.dlink.com.tw/GPL.asp
