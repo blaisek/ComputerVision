@@ -83,3 +83,18 @@ j'ai récupéré la caméra IP au labo aujourd'hui, il faut brancher la camera s
 
 - le software contient du code sous licence GNU dont la source peut se trouver sous 
 http://tsd.dlink.com.tw/GPL.asp
+
+### 27 avril 2017
+Je suis passé sur windows 7 pour configurer la caméra ip.
+
+Coincé depuis hier j'arrive toujours pas à installer une version de open cv qui va avec visual studio community 2017
+
+j'ai regardé sur internet , rien de récent , le dernier tuto d'installation pour window opencv.org est pour VS 2012
+
+soit la dernière version  d'openCV pour windows est prévue pour VS 2015, VS 2017 étant très récent et donc j'essaie d'installer VS 2015
+
+soit c'est peut être VS 2017 qui n'est pas prévu pour une cible windows 7 .
+
+Je vais graver VS 2015 puis l'installer et si ça va toujours pas, je retourne à ubuntu pour ne pas perdre plus de temps.
+
+
