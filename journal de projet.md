@@ -61,4 +61,8 @@ soit c'est peut être VS 2017 qui n'est pas prévu pour une cible windows 7 .
 
 Je vais graver VS 2015 puis l'installer et si ça va toujours pas, je retourne à ubuntu pour ne pas perdre plus de temps.
 
+### 2 Mai 2017
+Je suis retourné à ubuntu mais le script que j'avais utilisé y a 1 mois pour installer openCV ne fonctionnais plus. j'ai finalement trouvé un autre script qui à l'air de tout installer comme il faut, mais en faisant un test en C++ que j'avais déjà effectuer la dernière fois, j'ai eu un message d'erreur provenant d'une fonction de la librairie openCV et non de mon code "modules/highgui/src/window.cpp" ligne 312.
+le même test fait en python fonctionne. je pourrais éventuellement continuer en python.
+
 
