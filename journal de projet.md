@@ -34,14 +34,11 @@ Reprise après une coupure pour finir le travail de semestre et la coupure de p�
 
 j'ai récupéré la caméra IP au labo aujourd'hui, il faut brancher la camera sur un routeur et exécuter une routine d'installation depuis un CD Compatible pour Windows ou mac OS 10 uniquement.  une fois l'installation faite il sera possible d’accéder aux images via internet depuis n'importe quel système.
 
-- Ma machine au labo est sous Ubuntu. sois j'installe windows soit je fais la configuration sur un pc windows. soit je fais la configuration sur mon mac OSX.
+- Ma machine au labo est sous Ubuntu. sois j'installe windows soit je fais la configuration sur un pc windows du même réseau. soit je fais la configuration sur mon mac OSX.
 
 - sur quel routeur je pourrais brancher la caméra ?
 
-- l'accès à distance à la caméra, se fait via un portail web www.mydlink.com
-  je me pose quelques questions:
-  
-- peut on détourner le flux vidéo du site internet vers un programme de traitement en temps réels ou doit on obligatoirement    utiliser une vidéo enregistré ? 
+- l'accès à distance à la caméra, se fait via un portail web www.mydlink.com , qu'on ne va pas utiliser.
 
 - la platforme web propose entre autre une application de détection de mouvement 
 
@@ -62,7 +59,13 @@ soit c'est peut être VS 2017 qui n'est pas prévu pour une cible windows 7 .
 Je vais graver VS 2015 puis l'installer et si ça va toujours pas, je retourne à ubuntu pour ne pas perdre plus de temps.
 
 ### 2 Mai 2017
-Je suis retourné à ubuntu mais le script que j'avais utilisé y a 1 mois pour installer openCV ne fonctionnais plus. j'ai finalement trouvé un autre script qui à l'air de tout installer comme il faut, mais en faisant un test en C++ que j'avais déjà effectuer la dernière fois, j'ai eu un message d'erreur provenant d'une fonction de la librairie openCV et non de mon code "modules/highgui/src/window.cpp" ligne 312.
+
+Je suis retourné à ubuntu mais le script que j'avais utilisé y a 1 mois pour installer openCV ne fonctionnais plus après avoir passé plusieurs heures à débugger, j'ai finalement trouvé un autre script qui à l'air de tout installer comme il faut, mais en faisant un test en C++ que j'avais déjà effectuer la dernière fois, j'ai eu un message d'erreur provenant d'une fonction de la librairie openCV et non de mon code "modules/highgui/src/window.cpp" ligne 312.
 le même test fait en python fonctionne. je pourrais éventuellement continuer en python.
+
+### 3 mai 2017
+
+étude de l'état de la techniques avec openCV et les caractéristiques des différents modules qui peuvent nous servir pour le projet. 
+j'ai essayer de capter le flux ip via un petit programme en python mais j'ai de nouveau eu le même message d'erreur provenant de la ligne 312 méthode imshow dans le module highgui de la bibliothèque opencv.
 
 
