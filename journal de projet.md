@@ -66,6 +66,6 @@ le même test fait en python fonctionne. je pourrais éventuellement continuer e
 ### 3 mai 2017
 
 étude de l'état de la techniques avec openCV et les caractéristiques des différents modules qui peuvent nous servir pour le projet. 
-j'ai essayer de capter le flux ip via un petit programme en python mais j'ai de nouveau eu le même message d'erreur provenant de la ligne 312 méthode imshow dans le module highgui de la bibliothèque opencv.
+j'ai essayer de capter le flux vidéo via un petit programme en python mais j'ai de nouveau eu le même message d'erreur provenant de la ligne 312 méthode imshow dans le module highgui de la bibliothèque opencv.
 
 
