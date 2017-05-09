@@ -1,6 +1,7 @@
 # ComputerVision
 ## projectOnComputerVision
 ### Opencv.sh
-install opencv library on ubuntu systme.
+install opencv 3.2.0 library on ubuntu system.
 ### compile_opencv.sh
-script for compile opencv project with gcc or g++ , add alias path " opencv= '~/compile_opencv.sh' " on .bashrc or .bash_aliases file
+script for compile opencv project with gcc or g++ , add path : " alias opencv= '~/compile_opencv.sh' " 
+on .bashrc file and reboot if you want to compile using opencv comand 
