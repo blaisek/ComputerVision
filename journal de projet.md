@@ -73,4 +73,6 @@ j'ai essayer de capter le flux vidéo via un petit programme en python mais j'ai
 le bug est réglé, ce message survient lorsque le fichier à lire est introuvable.
 Je peux à présent afficher le flux de la caméra ip dans une fenêtre crée avec openCV
 
+### 13 mai 2017
 
+réfléxion sur la proposition d'un système adapté au cas d'études et présentation d'un schéma. la caméra donne sur une route Où passent beaucoup de voitures, quelques vélos et quelques passants sur les trottoirs. il s'agirait de concevoir un système capable de détecter au moins un des trois.
