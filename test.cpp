@@ -44,8 +44,11 @@
     int main()
     {
 		
-        Mat img = imread("/home/etudiant/Blaise/ComputerVision/lena.jpg",CV_LOAD_IMAGE_COLOR);
+        Mat img = imread("lena.jpg",CV_LOAD_IMAGE_COLOR);
+
+	if(!img.empty()){
         imshow("opencvtest",img);
+	}
         waitKey(0);
    
        return 0;
