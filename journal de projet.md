@@ -76,3 +76,7 @@ Je peux à présent afficher le flux de la caméra ip dans une fenêtre crée av
 ### 13 mai 2017
 
 réfléxion sur la proposition d'un système adapté au cas d'études et présentation d'un schéma. la caméra donne sur une route Où passent beaucoup de voitures, quelques vélos et quelques passants sur les trottoirs. il s'agirait de concevoir un système capable de détecter au moins un des trois.
+
+### 15 mai 2017
+
+j'ai réussi à appliquer la méthode de soustraction de fond par mixture de gaussienne sur le flux de la caméra IP et on voit les objets en mouvement (piétons, voitures, 2 roues) qui se distinguent du fond noir. Il y a toutefois pas mal de bruits dans le masque ainsi crée. 
