@@ -80,3 +80,9 @@ réfléxion sur la proposition d'un système adapté au cas d'études et présen
 ### 15 mai 2017
 
 j'ai réussi à appliquer la méthode de soustraction de fond par mixture de gaussienne sur le flux de la caméra IP et on voit les objets en mouvement (piétons, voitures, 2 roues) qui se distinguent du fond noir. Il y a toutefois pas mal de bruits dans le masque ainsi crée. 
+
+### 18 mai 2017
+
+j'ai exploré l'état de l'art et de la technique pour la détection d'objet et je me rend compte qu'il y a énormément de boulot et de concept à connaître. l'intelligence artificielle , le machine learning c'est très complexe et ça prend apparemment beaucoup beaucoup  de temps pour entraîner un  système à la reconnaissance d'un model. faudra revoir les ambitions à la baisse je pense. je ne sais pas si je vais arriver au bout de ce projet. Le temps passe vite et les jours n'ont que 24 heures.
+le premier exemple de structure que j'avais fait était finalement meilleur que celui que j'ai modifier hier mais il doit être  mieux expliqué au niveau de l'extraction des caractéristiques et de la classification car c'est pas encore clair pour moi. je vais travailler sur la réalisation du pré processing et la segmentation cette fin de semaine.
+
