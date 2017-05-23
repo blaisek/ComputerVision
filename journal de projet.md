@@ -79,7 +79,7 @@ réfléxion sur la proposition d'un système adapté au cas d'études et présen
 
 ### 15 mai 2017
 
-j'ai réussi à appliquer la méthode de soustraction de fond par mixture de gaussienne sur le flux de la caméra IP et on voit les objets en mouvement (piétons, voitures, 2 roues) qui se distinguent du fond noir. Il y a toutefois pas mal de bruits dans le masque ainsi crée. 
+j'ai réussi à appliquer la méthode de soustraction de fond par mixture de gaussienne sur le flux de la caméra IP et on voit les objets en mouvement (piétons, voitures, 2 roues) qui se distinguent du fond noir. Il y a toutefois pas mal de bruits dans le masque ainsi crée et les objets sont un peu trop loin pour en tirer quelque chose. 
 
 ### 18 mai 2017
 
