@@ -95,3 +95,6 @@ Pour tester la reconnaissance d'objet,j'aimerais pouvoir emprunter une web cam p
 
 j'ai fait le matching entre une image enregistré et le flux vidéo provenant d'une webcam. la reconnaissance d'objet demande de faire des réglages pour pas avoir trop de faux positif mais fonctionne. l'algorithme SIFT (scale-invariant feature transform ) pour identifier les éléments similaires entre différentes images numériques dont s'inspire ORB est réputé plus performant , mais il est devenu payant donc plus disponible dans la dernière version stable d' opencv.   
 
+### 30 mai 2017
+
+Ecriture du rapport 
