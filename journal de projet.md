@@ -98,3 +98,7 @@ j'ai fait le matching entre une image enregistré et le flux vidéo provenant d'
 ### 30 mai 2017
 
 Ecriture du rapport 
+
+### 1 juin 2017
+
+Discussion avec les professeurs , la solution envisagé est d'entraîner soit même un classifieur et de déterminer par statistique le seuil de reconnaissance -> Règle de décision de Bayes  
