@@ -102,3 +102,6 @@ Ecriture du rapport
 ### 1 juin 2017
 
 Discussion avec les professeurs , la solution envisagé est d'entraîner soit même un classifieur et de déterminer par statistique le seuil de reconnaissance -> Règle de décision de Bayes  
+### 14 juin 2017
+
+je lis et fais des recherches sur comment fonctionnent et sont créer les classifieurs. il y a beaucoup d'informations sur la théorie et sur les algorithmes de machine learning d'entrainement mais pas grand chose sur la pratique. je dois faire le tri . je pense revenir à la première idée et faire un haar classifieur ensuite si le temps le permet essayer la méthode HOG , sinon je vais me dissiper à vouloir faire plusieurs choses à la fois.  
