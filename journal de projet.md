@@ -105,3 +105,7 @@ Discussion avec les professeurs , la solution envisagé est d'entraîner soit m�
 ### 14 juin 2017
 
 je lis et fais des recherches sur comment fonctionnent et sont créer les classifieurs. il y a beaucoup d'informations sur la théorie et sur les algorithmes de machine learning d'entrainement mais pas grand chose sur la pratique. je dois faire le tri . je pense revenir à la première idée et faire un haar classifieur ensuite si le temps le permet essayer la méthode HOG , sinon je vais me dissiper à vouloir faire plusieurs choses à la fois.  
+### 19 juin 2017
+
+J'ai préparé en extrayant manuellement la zone d'intérêt , une collection d'une vingtaine d'images de cycliste que j'ai pris ce week end en photo
+et j'ai autour de 150 images de background que j'ai pris de la caméra . je vais surement en ajouter d'autres par la suite 
