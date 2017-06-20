@@ -109,3 +109,8 @@ je lis et fais des recherches sur comment fonctionnent et sont créer les classi
 
 J'ai préparé en extrayant manuellement la zone d'intérêt , une collection d'une vingtaine d'images de cycliste que j'ai pris ce week end en photo
 et j'ai autour de 150 images de background que j'ai pris de la caméra . je vais surement en ajouter d'autres par la suite 
+### 20 juin 2017
+
+  à partir d'un pool de 42 images positives et 227 négatives, j'ai entraîner un classifier haarcascades en 20 étapes  avec LBP. 
+ j'ai obtenu un fichier xml utilisable mais avec énormément de faux positif.
+ je vais pousser l'entrainement en 30 étapes et tourner une video au rassemblement de vélo de jeudi 22 pour utiliser comme vidéo de test 
