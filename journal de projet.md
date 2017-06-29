@@ -114,3 +114,9 @@ et j'ai autour de 150 images de background que j'ai pris de la caméra . je vais
   à partir d'un pool de 42 images positives et 227 négatives, j'ai entraîner un classifier haarcascades en 20 étapes  avec LBP. 
  j'ai obtenu un fichier xml utilisable mais avec énormément de faux positif.
  je vais pousser l'entrainement en 30 étapes et tourner une video au rassemblement de vélo de jeudi 22 pour utiliser comme vidéo de test 
+ 
+### 29 juin 2017
+
+j'ai augmenter mon pool à 625 images négatives et 72 positives j'ai trouvé une meilleure détections sur la vidéo test avec haar en comparaison de lbp. 
+j'ai fais une rotation des images négatives qui étaient horizontales et j'ai recréer des samples avec aucunes distorsions .
+je relance une série de cascades LBP et Haar pour voir si il y a un progrès avec ces changements . 
