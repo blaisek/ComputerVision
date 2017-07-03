@@ -120,3 +120,7 @@ et j'ai autour de 150 images de background que j'ai pris de la caméra . je vais
 j'ai augmenter mon pool à 625 images négatives et 72 positives j'ai trouvé une meilleure détections sur la vidéo test avec haar en comparaison de lbp. 
 j'ai fais une rotation des images négatives qui étaient horizontales et j'ai recréer des samples avec aucunes distorsions .
 je relance une série de cascades LBP et Haar pour voir si il y a un progrès avec ces changements . 
+
+### 3 juillet 2017
+
+l'entraitement du détecteur haar à partir de samples sans distortions c'est arrêté à la 11 éme étape et donne un fichier xml non exploitable. 
