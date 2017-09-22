@@ -3,4 +3,5 @@
 3 run opencv.sh
 4 read imglab file
 5 train_bike_detector.py
-6 object_detector.py
+6 pip install imutils
+7 object_detector.py
