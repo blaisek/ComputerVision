@@ -6,7 +6,7 @@ import dlib
 import cv2
 import imutils
 import argparse
-import numpy as np
+
 
 # arguments du programme
 ap = argparse.ArgumentParser()
@@ -41,6 +41,7 @@ while cap.isOpened():
     cv2.imshow("frame",frame)
     if out is None:
      (h,w) = frame.shape[:2]
+    # enregistre la video au format avi
      out = cv2.VideoWriter("bike5_detector.avi", fourcc, 30, (w, h), True)
      output = np.zeros((h,w,3),dtype="uint8")
 
