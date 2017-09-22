@@ -6,7 +6,7 @@ import sys
 import glob
 import dlib
 import argparse
-#from skimage import io
+
 
 # arguments du programme
 ap = argparse.ArgumentParser()
