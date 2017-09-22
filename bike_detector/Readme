@@ -1,0 +1,6 @@
+1 run boost.sh
+2 run dlib.sh
+3 run opencv.sh
+4 read imglab file
+5 train_bike_detector.py
+6 object_detector.py
