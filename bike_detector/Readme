@@ -5,3 +5,6 @@
 5 train_bike_detector.py
 6 pip install imutils
 7 object_detector.py
+
+Bachelor thesis : "Détection d'objets en mouvement"
+https://sitehepia.hesge.ch/diplome/ITI/2017/
